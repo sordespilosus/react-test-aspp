@@ -1,0 +1,11 @@
+[
+	{"pointname": "oov2st",  "pointnote": "Орден Отечественной Войны<br />второй степени"},
+	{"pointname": "okz1st",  "pointnote": "Орден Красного Знамени<br />первой степени"},
+	{"pointname": "blag1",  "pointnote": "Личная благодраность<br />И. В. Сталина"},
+	{"pointname": "praga",  "pointnote": "Медаль<br />за освобождение Праги"},
+	{"pointname": "berlin",  "pointnote": "Медаль<br />за взятие Берлина"},
+	{"pointname": "pobeda",  "pointnote": "Медаль<br />за победу над Германией"},
+	{"pointname": "blag2",  "pointnote": "Личная благодраность<br />И. В. Сталина"},
+	{"pointname": "blag3",  "pointnote": "Личная благодраность<br />И. В. Сталина"},
+	{"pointname": "blag4", "pointnote": "Личная благодраность<br />И. В. Сталина"}
+]
